@@ -12,7 +12,7 @@ This project is a CLI tool that generates professional READMEs.
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Link to Walkthrough Video](https://youtu.be/oZCXzW_lXEI)
+- [Walkthrough Video](https://youtu.be/oZCXzW_lXEI)
 - [Questions](#questions)
 
 ## Installation
@@ -30,7 +30,8 @@ Fork the repo and submit a pull request
 ## Tests
 Run npm test to execute the test suite
 
-## Link to Walkthrough Video
+## Walkthrough Video
+For a detailed demonstration of this application, please watch our walkthrough video:
 https://youtu.be/oZCXzW_lXEI
 
 ## Questions
