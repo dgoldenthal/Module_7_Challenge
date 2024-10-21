@@ -12,7 +12,7 @@ This project is a CLI tool that generates professional READMEs.
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Link to Walkthrough Video]
+- [Link to Walkthrough Video](https://youtu.be/oZCXzW_lXEI)
 - [Questions](#questions)
 
 ## Installation
