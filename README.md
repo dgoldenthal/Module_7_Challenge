@@ -22,7 +22,6 @@ Clone the repo and run npm install
 Run node index.js and follow the prompts
 
 ## License
-
 This project is licensed under the MIT license. For more information, see the [LICENSE](./LICENSE) file.
 
 ## Contributing
